@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\DRILL\DRILL\bin\Debug\DRILL.exe.config
+C:\Users\USER\source\repos\DRILL\DRILL\bin\Debug\DRILL.exe
+C:\Users\USER\source\repos\DRILL\DRILL\bin\Debug\DRILL.pdb
+C:\Users\USER\source\repos\DRILL\DRILL\obj\Debug\DRILL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DRILL\DRILL\obj\Debug\DRILL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DRILL\DRILL\obj\Debug\DRILL.exe
+C:\Users\USER\source\repos\DRILL\DRILL\obj\Debug\DRILL.pdb
